@@ -1,2 +1,2 @@
 # figmatokens
-CapitalOS Token Library
+Token Library
